@@ -1,6 +1,6 @@
 [submodule "io-uring"]
 	path = io-uring
-	url = https://github.com/bgamari/io-uring.git
+	url = git@github.com:zyklotomic/io-uring.git
 [submodule "network"]
 	path = network
 	url = git@github.com:zyklotomic/network.git
