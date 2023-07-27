@@ -1,0 +1,7 @@
+[submodule "io-uring"]
+	path = io-uring
+	url = https://github.com/bgamari/io-uring.git
+
+[submodule "network"]
+	path = network
+	url = git://git@github.com:zyklotomic/network.git
